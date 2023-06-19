@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
     <style>
-        .cls-1 { fill: #0209ff; font-size: 70px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
-        .cls-2 { fill: #ff575a; font-size: 70px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
+        .cls-1 { fill: #2e95d3; font-size: 70px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
+        .cls-2 { fill: #f22c3d; font-size: 70px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
         .cls-3 { fill: #5cff57; font-size: 30px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: 600;}
     </style>
     <text class="cls-2" x="85" y="90">&lt;</text>

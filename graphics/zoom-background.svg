@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <style>
+        .cls-1 { fill: #2e95d3; font-size: 100px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
+        .cls-2 { fill: #f22c3d; font-size: 100px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
+        .cls-3 { fill: #5cff57; font-size: 60px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: 600;}
+        .cls-4 { fill: #2e95d3; font-size: 150px; font-family: 'Courier New', monospace; text-anchor: middle; font-weight: bold;}
+    </style>
+    
+    <!-- Temporary background color for testing -->
+    <rect width="1920" height="1080" fill="#000000"></rect>
+    
+    <!-- Angle bracket before NurseTheCode -->
+    <text class="cls-2" x="480" y="220">&lt;</text>
+    
+    <!-- Business name NurseTheCode centered in the middle of the top fourth of the screen -->
+    <text class="cls-1" x="910" y="220">NurseTheCode</text>
+    
+    <!-- Angle bracket after NurseTheCode -->
+    <text class="cls-2" x="1380" y="220">/&gt;</text>
+    
+    <!-- Rounded Rectangle behind "N" -->
+    <rect x="140" y="460" width="200" height="200" rx="60" ry="60" fill="#222222"></rect>
+    
+    <!-- "N" from NurseTheCode centered in the middle of the left third -->
+    <text class="cls-4" x="240" y="600">N</text>
+    
+    <!-- "Code Solutions Born from Listening" centered and arranged vertically in the middle of the right third -->
+    <text class="cls-3" x="1600" y="410">Code</text>
+    <text class="cls-3" x="1600" y="480">Solutions</text>
+    <text class="cls-3" x="1600" y="550">Born</text>
+    <text class="cls-3" x="1600" y="620">from</text>
+    <text class="cls-3" x="1600" y="690">Listening</text>
+</svg>
+
+
+
